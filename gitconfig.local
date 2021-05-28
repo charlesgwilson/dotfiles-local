@@ -3,7 +3,6 @@
 	email = greg@buoysoftware.com
 [core]
 	excludesfile = /Users/charleswilson/.gitignore_global
-	editor = nano
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
@@ -11,4 +10,4 @@
 	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
 [commit]
-	template = /Users/charleswilson/.gitmessage
+  template = /Users/charleswilson/.gitmessage

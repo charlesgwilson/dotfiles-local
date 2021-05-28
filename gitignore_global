@@ -1,0 +1,6 @@
+*~
+.DS_Store
+.env
+.env.staging
+cypress.env.*.json
+config/database.staging
