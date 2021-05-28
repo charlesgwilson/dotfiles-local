@@ -1,0 +1,6 @@
+alias gpr='git pull --rebase --autostash'
+alias gfp='git push origin $(git rev-parse --abbrev-ref HEAD) --force-with-lease'
+alias gprune='git fetch --prune'
+alias rails='bundle exec rails'
+alias rsnf='bundle exec rspec --pattern "spec/**/*_spec.rb" --exclude-pattern "spec/features/**/*_spec.rb"'
+alias rspec='bundle exec rspec'
