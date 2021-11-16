@@ -1,4 +1,4 @@
-let base16colorspace=256
+" let base16colorspace=256
 let mapleader = ","
 
 nnoremap <leader>w <C-w>v<C-w>l
@@ -13,7 +13,7 @@ set nowrap
 set list  " Shows invisible characters
 set listchars=tab:▸\ ,eol:¬
 
-set t_Co=256
+" set t_Co=256
 set background=dark
 set colorcolumn=80
 " colorscheme nord
