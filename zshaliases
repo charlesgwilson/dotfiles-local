@@ -8,3 +8,4 @@ alias rsnf='bundle exec rspec --pattern "spec/**/*_spec.rb" --exclude-pattern "s
 alias rspec='bundle exec rspec'
 alias lsr='cd $HOME/Sites/BuoyRails'
 alias wharf='cd $HOME/Sites/Wharf'
+alias devops='cd $HOME/Sites/DevOps'
